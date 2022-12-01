@@ -1,0 +1,177 @@
+[
+    {
+        "id" : 1,
+        "producto" : "Luz de colores", 
+        "marca" : "3dmagic",
+        "color" : "multicolor",
+        "precio" : 2500,
+        "imagen" : "luzcolor.jpg"
+        
+    },
+    {
+        "id" : 2,
+        "producto" : "Lampara",  
+        "marca" : "planeta",
+        "color" : "morado",
+        "precio" : 3500,
+        "imagen" :  "luzplaneta.jpg"
+        
+    },
+    {
+        "id" : 3,
+        "producto" : "Botella ISLAND 750 ml", 
+        "marca" :  "TAHG",
+        "color" : "Multicolor", 
+        "precio" : 3000,
+        "imagen" : "botellamundial.jpg"
+        
+    },
+    {
+        "id" : 4,
+        "producto" : "Cartuchera", 
+        "marca" : "TAHG",
+        "color" : "gris", 
+        "precio" : 1900,
+        "imagen" : "cartuchera.jpg"
+        
+    },
+    {
+        "id" : 5,
+        "producto" : "Base Portanotebook con funda", 
+        "marca" : "TAHG",
+        "color" : "rojo", 
+        "precio" : 4500,
+        "imagen" : "base.png"
+        
+    },
+    {
+        "id" : 6,
+        "producto" : "Portacelular",
+        "marca" :  "TAHG",
+        "color" : "blanco", 
+        "precio" : 800,
+        "imagen" : "portacelu.jpg"
+        
+    },
+    {
+        "id" : 7,
+        "producto" :  "Vaso termico",
+        "marca" : "keep",
+        "color" : "gris metalizado", 
+        "precio" : 1200,
+        "imagen" : "vaso.jpg"
+        
+    },
+    {
+        "id" : 8,
+        "producto" : "Mate",  
+        "marca" : "keep",
+        "color" : "marron", 
+        "precio" :1200,
+        "imagen" : "mate.jpg"
+        
+    },
+    {
+        "id" : 9,
+        "producto" : "Jarro Mocca", 
+        "marca" : "ReUseMe",
+        "color" : "Multicolor", 
+        "precio" : 826,
+        "imagen" : "vasomundial.jpg"
+        
+    },
+    {
+        "id" : 10,
+        "producto" : "termo", 
+        "marca" : "Stanley",
+        "color" : "verde",  
+        "precio" : 5000,
+        "imagen" : "stanley.jpg"
+        
+    },
+    {
+        "id" : 11,
+        "producto" : "Llavero Toronto destapador", 
+        "marca" : "TAHG",
+        "color" : "rojo", 
+        "precio" : 245,
+        "imagen" : "LlaveroT.jpg"
+        
+    },
+    {
+        "id" : 12,
+        "producto" : "Llavero Solar Key - Luz LED", 
+        "marca" : "TAHG",
+        "color" : "gris", 
+        "precio" : 1625,
+        "imagen" : "LlaverSolar.png" 
+        
+    },
+    {
+        "id" : 13,
+        "producto" : "Llavero K159 rectangular madera",
+        "marca" :  "TAHG",
+        "color" : "rosa", 
+        "precio" :1081,
+        "imagen" : "LlaveroMadera.png" 
+    },
+    {
+        "id" : 14,
+        "producto" : "Bol 750 Vento", 
+        "marca" : "TAHG",
+        "color" : "Multicolor", 
+        "precio" :  112, 
+        "imagen" : "vento.jpg"
+    },
+    {
+        "id" : 15,
+        "producto" : "Bol Shark", 
+        "marca" : "Zecat", 
+        "color" : "verde", 
+        "precio" : 109,
+        "imagen" : "shark.jpg"
+    },
+    {
+        "id" : 16,
+        "producto" : "Boligrafo Foster", 
+        "marca" : "Zecat", 
+        "color" : "Multicolor",
+        "precio" : 124,
+        "imagen" : "foster.jpg"
+    },
+    {
+        "id" : 17,
+        "producto" : "Boligrafo Organic",  
+        "marca" : "Zecat",
+        "color" :"Multicolor",
+        "precio" :  165,
+        "imagen" : "organic.jpg"
+    },
+    {
+        "id" : 18,
+        "producto" : "Reloj de Pared RJP 1064 BLANCO", 
+        "marca" : "Zecat",
+        "color" : "blanco",
+        "precio" :  4159,
+        "imagen" : "Reloj.png"
+    },
+    {
+        "id" : 19,
+        "producto" : "Matera Sofia", 
+        "marca" : "TAHG",
+        "color" : "gris", 
+        "precio" :7999,
+        "imagen" : "Matera.jpg"
+    },
+    {
+        "id" : 20,
+        "producto" : "Utensilios para Cocina", 
+        "marca" : "La Baule",
+        "color" : "Marron", 
+        "precio" : 2100,
+        "imagen" : "utencillos.jpg"
+    }
+
+    
+
+]
